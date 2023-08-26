@@ -32,4 +32,4 @@ const product = [
 const items = product.map(product => product.name);
 console.log(items)
 const price = product.map(product => product.price );
-console.log(price)
+console.log(price);
